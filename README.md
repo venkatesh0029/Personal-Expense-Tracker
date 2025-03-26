@@ -92,4 +92,4 @@ Provides the graphical user interface for the system.
 Feel free to contribute to this project. Fork the repository, make changes, and create a pull request!
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
